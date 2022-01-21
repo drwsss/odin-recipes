@@ -1,0 +1,51 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: ivory;
+    font-size: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: xxx-large;
+    background-color: maroon;
+    color: ivory;
+}
+
+h2 {
+    font-size: x-large;
+    background-color: olive;
+}
+
+img {
+    height: auto;
+}
+img.chef {
+    width: 200px;
+}
+
+img.finished {
+    width: 500px;
+}
+
+ul {
+}
+
+ol {
+}
+
+.recipes-list {
+    font-weight: bolder;
+}
+
+p.description {
+    font-size: x-large;
+}
